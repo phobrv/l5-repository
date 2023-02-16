@@ -1,5 +1,5 @@
 {
-  "name": "prettus/l5-repository",
+  "name": "phobrv/l5-repository",
   "description": "Laravel 5|6|7|8|9 - Repositories to  the database layer",
   "keywords": [
     "laravel",
@@ -20,9 +20,9 @@
   "homepage": "http://andersao.github.io/l5-repository",
   "support": {
     "email": "contato@andersonandra.de",
-    "issues":"https://github.com/andersao/l5-repository/issues",
-    "wiki":"https://github.com/andersao/l5-repository",
-    "source":"https://github.com/andersao/l5-repository",
+    "issues": "https://github.com/andersao/l5-repository/issues",
+    "wiki": "https://github.com/andersao/l5-repository",
+    "source": "https://github.com/andersao/l5-repository",
     "docs": "http://andersao.github.io/l5-repository"
   },
   "require": {
